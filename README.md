@@ -2,7 +2,7 @@
 
 Explained code for how decision tree model work without using predefined decisiontree classifier.
 
-iris is predefined dataset in sklearn, which tell about various attributes of flower.
+iris is predefined dataset in sklearn, which is a collection of various attributes of flower.
 
 This code explains,
 1. How the decision can be made on the base of base feature.
